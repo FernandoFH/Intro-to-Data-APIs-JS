@@ -65,3 +65,5 @@ This course is for aspiring developers who want to learn how to work with data i
 2. Learn how to store private API keys using environment variables.
 3. Learn how to deploy your project using services like [Glitch](http://glitch.com) and more.
 
+--- 
+#### Playlist: [here](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X)
