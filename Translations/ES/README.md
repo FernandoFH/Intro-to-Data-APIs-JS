@@ -15,18 +15,18 @@ Este curso es para los aspirantes a desarrolladores que desean aprender a trabaj
 
 #### 1a: buscar ()
 1. ¿Qué es `fetch ()`?
-    * [Fetch API] (https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
-    * Promesas, asíncronas y aguardan
-    * [Cuerpo - API web] (https://developer.mozilla.org/en-US/docs/Web/API/Body)
-    * `<img>` elemento DOM
+   * [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+   * Promesas, asíncronas y aguardan
+   * [Cuerpo - API web](https://developer.mozilla.org/en-US/docs/Web/API/Body)
+   * `<img>` elemento DOM
     
 #### 1b: Datos tabulares
 1. Analizando CSV con `split ()`
-2. Gráfico de líneas con [chart.js] (https://www.chartjs.org/docs/latest/)
+2. Gráfico de líneas con [chart.js](https://www.chartjs.org/docs/latest/)
 
 #### 1c: Datos JSON de API
 1. Cargar datos JSON con `fetch ()` y actualizar el elemento DOM <span>.
-2. Agregue el mapa a la página con [Leaflet.js] (https://leafletjs.com/) y coloque la ubicación de ISS como marcador.
+2. Agregue el mapa a la página con [Leaflet.js](https://leafletjs.com/) y coloque la ubicación de ISS como marcador.
 3. Actualizando la ubicación continuamente con `setInterval ()`.
   
  #### Objetivos
@@ -37,7 +37,7 @@ Este curso es para los aspirantes a desarrolladores que desean aprender a trabaj
 
 ### Módulo 2: La aplicación Data Selfie
 
-[La aplicación Data Selfie] (https://github.com/joeyklee/data-selfie-app) es un tutorial de proyecto de [@joeyklee] (https://github.com/joeyklee).
+[La aplicación Data Selfie](https://github.com/joeyklee/data-selfie-app) es un tutorial de proyecto de [@joeyklee] (https://github.com/joeyklee).
 
 #### Videos
 1. ¿Qué es node, npm y express? Configurar un servidor para alojar páginas estáticas.
@@ -50,7 +50,7 @@ Este curso es para los aspirantes a desarrolladores que desean aprender a trabaj
 
 #### Objetivos
 1. Aprenda los conceptos básicos de la programación del lado del servidor con Node (y express?)
-2. Aprenda a guardar datos en una base de datos con [NedB] (https://github.com/louischatriot/nedb).
+2. Aprenda a guardar datos en una base de datos con [NedB](https://github.com/louischatriot/nedb).
     * muestra solo matriz simple
     * mostrar archivo plano
     * Introducir idea de base de datos
@@ -58,12 +58,12 @@ Este curso es para los aspirantes a desarrolladores que desean aprender a trabaj
 
 ### Módulo 3: El clima aquí
 
-[The Weather Here] (https://github.com/joeyklee/the-weather-here) es un tutorial del proyecto de [@joeyklee] (https://github.com/joeyklee).
+[The Weather Here](https://github.com/joeyklee/the-weather-here) es un tutorial del proyecto de [@joeyklee](https://github.com/joeyklee).
 
 #### Objetivos
 1. Aprenda a usar `fetch ()` para obtener datos de las API en node.js.
 2. Aprenda a almacenar claves API privadas utilizando variables de entorno.
-3. Aprenda a implementar su proyecto utilizando servicios como [Glitch] (http://glitch.com) y más.
+3. Aprenda a implementar su proyecto utilizando servicios como [Glitch](http://glitch.com) y más.
 
 ---
-#### Lista: [Aqui] (https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X)
+#### Lista: [Aqui](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X)
