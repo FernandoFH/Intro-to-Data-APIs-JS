@@ -1,4 +1,5 @@
 # Working with Data and APIs in JavaScript
+Read in a different language: [**ES**](https://github.com/FernandoFH/Intro-to-Data-APIs-JS/blob/source/Translations/ES/README.ES.md)
 
 This is a working document outlining future plans for a new Coding Train playlist: "Working with Data and APIs in JavaScript."
 
