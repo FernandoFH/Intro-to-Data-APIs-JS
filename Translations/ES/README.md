@@ -37,7 +37,7 @@ Este curso es para los aspirantes a desarrolladores que desean aprender a trabaj
 
 ### Módulo 2: La aplicación Data Selfie
 
-[La aplicación Data Selfie](https://github.com/joeyklee/data-selfie-app) es un tutorial de proyecto de [@joeyklee] (https://github.com/joeyklee).
+[La aplicación Data Selfie](https://github.com/joeyklee/data-selfie-app) es un tutorial de proyecto de [@joeyklee](https://github.com/joeyklee).
 
 #### Videos
 1. ¿Qué es node, npm y express? Configurar un servidor para alojar páginas estáticas.
